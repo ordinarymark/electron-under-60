@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "Shopping List desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "NinjaKitten",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
